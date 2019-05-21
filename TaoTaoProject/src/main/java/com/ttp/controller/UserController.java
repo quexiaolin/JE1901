@@ -10,8 +10,7 @@ import org.apache.shiro.subject.Subject;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.ttp.pojo.User;
-
+import com.ttp.pojo.User;//ggg
 @Controller
 @RequestMapping("/userlogin")
 public class UserController {
